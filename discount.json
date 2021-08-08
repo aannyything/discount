@@ -2,11 +2,14 @@
     "title": "Json backend",
     "description": "Your app fetched this from a remote endpoint!",
     "movies": [
-      { "id": "1", "shop": "Star Wars", "discountCode": "1977" },
-      { "id": "2", "shop": "Back to the Future", "discountCode": "1985" },
-      { "id": "3", "shop": "The Matrix", "discountCode": "1999" },
-      { "id": "4", "shop": "Inception", "discountCode": "2010" },
-      { "id": "5", "shop": "Interstellar", "discountCode": "2014" }
+      { "id": "1", "shop": "SHOPEE", "discountCode": "SHOPEE88" },
+      { "id": "2", "shop": "GRABFOOD", "discountCode": "TEATIMEFREEDEL" },
+      { "id": "3", "shop": "LAZADA", "discountCode": "8.8SALE" },
+      { "id": "4", "shop": "SHOPEE", "discountCode": "BUYNOW123" },
+      { "id": "5", "shop": "LAZADA", "discountCode": "BUYLAZMALL" },
+      { "id": "6", "shop": "GRAB", "discountCode": "TAXI123" },
+      { "id": "7", "shop": "GRABFOOD", "discountCode": "LUNCHDEL" }
+     
     ]
   }
   
