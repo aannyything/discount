@@ -1,0 +1,12 @@
+{
+    "title": "Json backend",
+    "description": "Your app fetched this from a remote endpoint!",
+    "movies": [
+      { "id": "1", "shop": "Star Wars", "discountCode": "1977" },
+      { "id": "2", "shop": "Back to the Future", "discountCode": "1985" },
+      { "id": "3", "shop": "The Matrix", "discountCode": "1999" },
+      { "id": "4", "shop": "Inception", "discountCode": "2010" },
+      { "id": "5", "shop": "Interstellar", "discountCode": "2014" }
+    ]
+  }
+  
